@@ -17,4 +17,5 @@ print(finalsum)
 
 
 """Change to list comprehension one day NOTE: If you do something like "nums = [re.findall('[0-9]+', line) for line in myf]" nums will
-have empty lists in it like this "[]", so you have to get rid of that to use sum()..."""
+have empty lists in it like this "[]", so you have to get rid of that to use sum()... ALSO, I'm pretty sure there is a way to do this
+in one line :D"""
